@@ -1,0 +1,222 @@
+    1  git checkout master
+    2  cd Khanyisile-Moyo-219-level-1-programming-katas-javascript
+    3  git checkout master
+    4  git log
+    5  git checkout master
+    6  git pull
+    7  git checkout -b longest
+    8  git status
+    9  git add Longest string.js
+   10  git log
+   11  git status
+   12  gi add Longest string.js
+   13  git add Longest string.js
+   14  git checkout right-hand-triangle
+   15  git status
+   16  git add Longest string.js
+   17  git checkout master
+   18  git status
+   19  git status
+   20  git checkout longest
+   21  git status
+   22  git add Longest string.js
+   23  git add longest
+   24  git add .
+   25  git status
+   26  git commit -m "longest string"
+   27  git push --set-upstream origin longest
+   28  git push
+   29  git checkout master
+   30  git pull
+   31  cd..
+   32  cd Pre-bootcamp
+   33  pwd
+   34  cd Khanyi M
+   35  cd Pre-bootcamp
+   36  cd Pre-bootcamp
+   37  ls -a
+   38  git pull
+   39  git satus
+   40  git status
+   41  git add .
+   42  git status
+   43  git commit -m "updated tasks"
+   44  git push
+   45  cd Bootcamp-writing-assignment
+   46  ls -a
+   47  ls -a
+   48  git pull
+   49  pwd
+   50  -rm fr
+   51  cd Khanyisile-Moyo-429-bootcamp-writing-assignment
+   52  cd Khanyisile-Moyo-429-bootcamp-writing-assignment-
+   53  ls -a
+   54  git status
+   55  git add .
+   56  git status
+   57  git push --set-upstream origin master
+   58  git push
+   59  touch ignore-me.db
+   60  git status
+   61  nano .gitignore
+   62  git status
+   63  mkdir large-directory-that-should-be-local-only
+   64  cd large-directory-that-should-be-local-only
+   65  touch README.md
+   66  nano README.md
+   67  cd ..
+   68  git status
+   69  nano .gitignore
+   70  git status
+   71  git add .gitignore
+   72  git commit -m ".gitignore"
+   73  git push
+   74  git log
+   75  git reset HEAD~1
+   76  git log
+   77  git push
+   78  git pull
+   79  git status
+   80  git status
+   81  git add .
+   82  git status
+   83  git commit -m "writing assignment"
+   84  git push --set-upstream origin master
+   85  git push origin master
+   86  touch ignore-me.db
+   87  git status
+   88  nano .gitignore
+   89  git status
+   90  mkdir large-directory-that-should-be-local-only
+   91  cd large-directory-that-should-be-local-only
+   92  touch README.md
+   93  nano README.md
+   94  cd ..
+   95  git status
+   96  nano .gitignore
+   97  git status
+   98  git push --set-upstream origin master
+   99  git checkout -b awriting assignment
+  100  git pull
+  101  git checkout -b writing assignment
+  102  pdw
+  103  pwd
+  104  git clone https://github.com/Umuzi-org/Khanyisile-Moyo-429-bootcamp-writing-assignment-.git
+  105  cd Khanyisile-Moyo-429-bootcamp-writing-assignment-
+  106  git checkout master
+  107  git pull
+  108  git checkout -b writing assignment
+  109  git checkout -b writing-assignment
+  110  ls -a
+  111  git status
+  112  git add .
+  113  git status
+  114  git commit -m "writing assignment"
+  115  git push --set-upstream origin master
+  116  git push
+  117  git push --set-upstream origin writing-assignment
+  118  git push
+  119  touch ignore-me.db
+  120  git status
+  121  nano .gitignore
+  122  git status
+  123  mkdir large-directory-that-should-be-local-only
+  124  cd large-directory-that-should-be-local-only
+  125  touch README.md
+  126  nano README.md
+  127  cd ..
+  128  git status
+  129  nano .gitignore
+  130  git status
+  131  git push
+  132  git status
+  133  git add .gitignore
+  134  git commit -m ".gitignore"
+  135  git push
+  136  cd Pre-bootcamp
+  137  git pull
+  138  git status
+  139  git add .
+  140  git status
+  141  git commit -m "updated tasks"
+  142  git push
+  143  cd Khanyisile-Moyo-219-level-1-programming-katas-javascript
+  144  cd ..
+  145  cd Pre-bootcamp
+  146  git status
+  147  git status
+  148  ls -a
+  149  git status
+  150  git checkout master
+  151  git status
+  152  git pull
+  153  git status
+  154  cd Pre-bootcamp
+  155  git pull
+  156  git status
+  157  git add .
+  158  git commit -m "latest update"
+  159  git push
+  160  cd Pre-bootcamp
+  161  mkdr git-basic-exercises
+  162  mkdir git-basic-exercises
+  163  cd git-basic-exercises
+  164  ls -a
+  165  git init
+  166  ls -a
+  167  touch README.md
+  168  ls -a
+  169  git status
+  170  git status
+  171  git log
+  172  git add README.md
+  173  git status
+  174  mkdir git-basic-exercises
+  175  cd git-basic-exercises
+  176  ls -a
+  177  git init
+  178  ls -a
+  179  git status
+  180  touch README.md
+  181  ls -a
+  182  git log
+  183  git add README.md
+  184  git status
+  185  git commit -m "initial commit"
+  186  git log
+  187  q
+  188  nano README.md
+  189  cat README.md
+  190  git status
+  191  git commit -m "second commit"
+  192  git add README.md
+  193  git commit -m "second commit"
+  194  nano README.md
+  195  cat README.md
+  196  git status
+  197  git add README.md
+  198  git commit -m "third commit"
+  199  git log
+  200  q
+  201  git checkout  6960c0c86674333635fc78f900fbd2d43654431e
+  202  cat README.md
+  203  git checkout master
+  204  cat README.md
+  205  git branch milkshake-flavours
+  206  git branch
+  207  git checkout milkshake-flavours
+  208  git branch
+  209  nano milkshakes.md
+  210  cat milkshakes.md
+  211  git status
+  212  git add milshakes.md
+  213  git add milkshakes.md
+  214  git commit -m "added inital flavours"
+  215  git log
+  216  git checkout master
+  217  git log
+  218  git branch history
+  219  git checkout history
+  220  git log
+  221  git branch
+  222  history > history.txt
